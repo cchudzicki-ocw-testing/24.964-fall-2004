@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: wk2handout.pdf
-type: OCWFile
 uid: da8b334f-c245-eb4f-2b98-0e513a2cb98d
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: experiment_intro.pdf
-type: OCWFile
 uid: a6504977-bdb2-9bf6-bf95-866230782b1e
 ---

@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: wk3handout.pdf
-type: OCWFile
 uid: cc77cf8f-577e-ccd6-1654-5cfafdf0d239
 ---

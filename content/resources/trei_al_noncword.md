@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: trei_al_noncword.xls
-type: OCWFile
 uid: 829826ae-9f43-f5b7-350d-5c87fbcbabe9
 ---

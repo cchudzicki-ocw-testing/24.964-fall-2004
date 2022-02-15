@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: wk3overheads.pdf
-type: OCWFile
 uid: 8ce7f027-93a2-87e8-f8b7-f74c89fcac7a
 ---

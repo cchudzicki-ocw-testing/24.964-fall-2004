@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: perlscripts4.zip
-type: OCWFile
 uid: 7f795cf5-a236-e755-7ee4-43dc84bfdf37
 ---

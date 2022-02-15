@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: class1supplement.pdf
-type: OCWFile
 uid: 0f9f5646-d997-970f-4ad8-6eeb559f8fe0
 ---

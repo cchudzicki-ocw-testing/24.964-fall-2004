@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other
 title: cvcv3.pl
-type: OCWFile
 uid: 149bdd42-8c69-7433-6c62-8df54be5ae41
 ---
