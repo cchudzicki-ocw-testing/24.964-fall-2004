@@ -4,6 +4,7 @@ description: Statistical Models.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/168fbde9fdc85a00f8dba58f070fee50_wk5handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

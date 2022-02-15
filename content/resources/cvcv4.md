@@ -4,6 +4,7 @@ description: Code file.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/54c1335e72ea8115f8d5a5d8886a7251_cvcv4.pl
 file_type: application/octet-stream
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Other

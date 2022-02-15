@@ -5,6 +5,7 @@ description: 'This resource includes: Learning Phonology, Supervised Learning, E
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/da8b334fc245eb4f2b980e513a2cb98d_wk2handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

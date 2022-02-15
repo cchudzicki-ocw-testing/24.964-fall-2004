@@ -4,6 +4,7 @@ description: Supplementary Notes.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/0f9f5646d997970f4ad86eeb559f8fe0_class1supplement.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
