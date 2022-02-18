@@ -30,20 +30,20 @@ supplemental materials
 Introduction: Writing Simple Perl Programs
 {{< tdclose >}}
 {{< tdopen >}}
-Pattern Matching, and Dealing with Files ([PDF]({{< baseurl >}}/resources/class1supplement))  
+Pattern Matching, and Dealing with Files ({{< resource_link 0f9f5646-d997-970f-4ad8-6eeb559f8fe0 "PDF" >}})  
   
-Handout: Introduction ([PDF]({{< baseurl >}}/resources/wk1handout))  
+Handout: Introduction ({{< resource_link 3c69fdb1-6a3c-29b5-6c94-00b6ea7e79d0 "PDF" >}})  
   
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts1))  
+_Perl Scripts_ ({{< resource_link 7d7b3554-6ef7-d946-357e-fcf63f67aa3b "ZIP" >}})  
 Containing all the following files:  
   
 checkmath.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/checkmath.pl))  
 cv.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/cv.pl))  
-cvcv.pl ([PL]({{< baseurl >}}/resources/cvcv))  
+cvcv.pl ({{< resource_link efecd90a-d557-1a55-27a3-0c82d8756672 "PL" >}})  
 cvcv2.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/cvcv2.pl))  
 cvcv2b.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/cvcv2b.pl))  
-cvcv3.pl ([PL]({{< baseurl >}}/resources/cvcv3))  
-cvcv4.pl ([PL]({{< baseurl >}}/resources/cvcv4))  
+cvcv3.pl ({{< resource_link 149bdd42-8c69-7433-6c62-8df54be5ae41 "PL" >}})  
+cvcv4.pl ({{< resource_link 54c1335e-72ea-8115-f8d5-a5d8886a7251 "PL" >}})  
 hello1.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/hello1.pl))  
 hello2.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/hello2.pl))  
 hello2b.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/hello2b.pl))  
@@ -81,9 +81,9 @@ Basic Terms and Concepts
 {{< tdopen >}}
 
 
-Handout: Simple Learning Models ([PDF]({{< baseurl >}}/resources/wk2handout))  
+Handout: Simple Learning Models ({{< resource_link da8b334f-c245-eb4f-2b98-0e513a2cb98d "PDF" >}})  
   
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts2))  
+_Perl Scripts_ ({{< resource_link 750945aa-62ab-033f-3dca-5b54f0deeaff "ZIP" >}})  
 Contains all the following files:  
   
 hepburn.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/hepburn.pl))  
@@ -115,9 +115,9 @@ JapaneseRules.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-ph
 Learning Models (for phonology)
 {{< tdclose >}}
 {{< tdopen >}}
-Handout: Learning Phonological Facts ([PDF]({{< baseurl >}}/resources/wk3handout))  
+Handout: Learning Phonological Facts ({{< resource_link cc77cf8f-577e-ccd6-1654-5cfafdf0d239 "PDF" >}})  
   
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts3))  
+_Perl Scripts_ ({{< resource_link c4f36adb-2926-360e-c88e-126065dd0fc8 "ZIP" >}})  
 Contains all the following files:  
   
 findinventory.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/findinventory.pl))  
@@ -139,7 +139,7 @@ test\_words.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phon
 Calculating Statistical Generalizations
 {{< tdclose >}}
 {{< tdopen >}}
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts4))  
+_Perl Scripts_ ({{< resource_link 7f795cf5-a236-e755-7ee4-43dc84bfdf37 "ZIP" >}})  
 Contains all the following files:  
   
 AlbrightHayes-Predictions.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/AlbrightHayesPredictions.txt))  
@@ -169,9 +169,9 @@ VitevitchLuce.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phon
 Statistical Models (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Handout: Refined Statistical Models for Phonotactic Probability ([PDF]({{< baseurl >}}/resources/wk5handout))  
+Handout: Refined Statistical Models for Phonotactic Probability ({{< resource_link 168fbde9-fdc8-5a00-f8db-a58f070fee50 "PDF" >}})  
   
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts5))  
+_Perl Scripts_ ({{< resource_link 8d842972-65c5-7034-a03c-30341f96cac3 "ZIP" >}})  
 Contains all the following files:  
   
 ConvertRHWordlist.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/ConvertRHWordlist.pl))  
@@ -185,7 +185,7 @@ RH-ExpectedCooccurrences.txt ([TXT](/courses/linguistics-and-philosophy/24-964-t
 RH-OnsetCodaDistributions.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RHOnsetCodaDistributions.txt))  
 RHPositionalProbabilities.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RHPositionalProbabilities.txt))  
 Treiman&al-LabPhonV-exp2.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/trei_al_lab_exp2.txt))  
-Treiman&al-NonceWords.xls ([XLS]({{< baseurl >}}/resources/trei_al_noncword))  
+Treiman&al-NonceWords.xls ({{< resource_link 829826ae-9f43-f5b7-350d-5c87fbcbabe9 "XLS" >}})  
 Treiman&al.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/treiman_al.txt))
 {{< tdclose >}}
 
@@ -198,7 +198,7 @@ Treiman&al.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phono
 Learning OT Grammars - Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts6))  
+_Perl Scripts_ ({{< resource_link 4158c3f7-797d-972c-26f2-32c7343cd630 "ZIP" >}})  
 Contains all the following files:  
   
 RCD-Readme.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCDReadme.txt))  
@@ -218,7 +218,7 @@ TesarSmolensky6.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-
 Learning in OT (cont.) - Ranking Biases
 {{< tdclose >}}
 {{< tdopen >}}
-_Perl Scripts_ ([ZIP]({{< baseurl >}}/resources/perlscripts7))  
+_Perl Scripts_ ({{< resource_link 1e629a88-e7a0-045d-d0b4-6e3614125c3c "ZIP" >}})  
 Contains all the following files:  
   
 HayesPseudoKorean.constraints ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/HayesPseudoKorean.constraints))  

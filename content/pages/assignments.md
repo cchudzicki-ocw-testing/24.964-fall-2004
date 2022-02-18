@@ -31,7 +31,7 @@ assignments
 Introduction: Writing Simple Perl Programs
 {{< tdclose >}}
 {{< tdopen >}}
-Grapheme to Phoneme Conversion ([PDF]({{< baseurl >}}/resources/wk1assignment))
+Grapheme to Phoneme Conversion ({{< resource_link c4a889d9-9ceb-9b3b-a77c-a0c5298faa58 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +45,7 @@ What is Learning?
 Basic Terms and Concepts
 {{< tdclose >}}
 {{< tdopen >}}
-Learning Rule Orderings ([PDF]({{< baseurl >}}/resources/wk2assignment))
+Learning Rule Orderings ({{< resource_link 50037cf6-f2a0-b256-9f6a-b2f196dc503f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ Learning Rule Orderings ([PDF]({{< baseurl >}}/resources/wk2assignment))
 Learning Models (for Phonology)
 {{< tdclose >}}
 {{< tdopen >}}
-Calculating Phonotactic Probability ([PDF]({{< baseurl >}}/resources/wk3assignment))  
+Calculating Phonotactic Probability ({{< resource_link 71662af7-2a41-8a95-9ff6-d11d1dd07802 "PDF" >}})  
   
 _Related Files  
   
@@ -79,7 +79,7 @@ AlbrightHayes.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-ph
 Calculating Statistical Generalizations
 {{< tdclose >}}
 {{< tdopen >}}
-Phonotactic Probability (cont.) ([PDF]({{< baseurl >}}/resources/wk4assignment))  
+Phonotactic Probability (cont.) ({{< resource_link 040be562-ff27-170a-ef24-4fb17cf5deca "PDF" >}})  
   
 _Related Files  
   
@@ -107,7 +107,7 @@ Statistical Models (cont.)
 Learning OT Grammars - Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-Understanding Recursive Constraint Demotion ([PDF]({{< baseurl >}}/resources/wk6assignment))  
+Understanding Recursive Constraint Demotion ({{< resource_link 3a23fdc4-d3ea-4146-c062-bd0a99e6b7bf "PDF" >}})  
   
 _Related Files  
   
@@ -124,7 +124,7 @@ RCD-Readme.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phono
 Learning in OT (cont.) - Ranking Biases
 {{< tdclose >}}
 {{< tdopen >}}
-The _azba_ Language ([PDF]({{< baseurl >}}/resources/wk7assignment))  
+The _azba_ Language ({{< resource_link 7be9cb7f-b4be-8f75-b779-f97bdc918e8e "PDF" >}})  
   
 _Related Files  
   
@@ -142,7 +142,7 @@ Learning in OT (cont.) -
 Reasoning about Rankings
 {{< tdclose >}}
 {{< tdopen >}}
-Comparing Ranking Algorithms ([PDF]({{< baseurl >}}/resources/wk8assignment))
+Comparing Ranking Algorithms ({{< resource_link 2d2522cd-5cdb-3806-e974-6bdfe7461b4a "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
