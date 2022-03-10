@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: trei_al_noncword.xls
 uid: 829826ae-9f43-f5b7-350d-5c87fbcbabe9
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

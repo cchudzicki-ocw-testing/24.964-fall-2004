@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: class1supplement.pdf
 uid: 0f9f5646-d997-970f-4ad8-6eeb559f8fe0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: f600f19d-ae22-b3f4-9437-c8db79bbe880
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk1overheads.pdf
 uid: 38b0b3ee-5d0d-e807-ce6d-baa2031f3866
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

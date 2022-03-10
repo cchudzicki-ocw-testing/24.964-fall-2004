@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: experiment_intro.pdf
 uid: a6504977-bdb2-9bf6-bf95-866230782b1e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

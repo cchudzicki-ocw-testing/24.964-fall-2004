@@ -17,4 +17,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk1assignment.pdf
 uid: c4a889d9-9ceb-9b3b-a77c-a0c5298faa58
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

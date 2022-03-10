@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk5handout.pdf
 uid: 168fbde9-fdc8-5a00-f8db-a58f070fee50
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

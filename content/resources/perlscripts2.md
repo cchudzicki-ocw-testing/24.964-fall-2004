@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: perlscripts2.zip
 uid: 750945aa-62ab-033f-3dca-5b54f0deeaff
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

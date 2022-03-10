@@ -20,4 +20,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk3assignment.pdf
 uid: 71662af7-2a41-8a95-9ff6-d11d1dd07802
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

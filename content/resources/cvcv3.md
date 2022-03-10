@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: cvcv3.pl
 uid: 149bdd42-8c69-7433-6c62-8df54be5ae41
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

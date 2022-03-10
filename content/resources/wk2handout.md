@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk2handout.pdf
 uid: da8b334f-c245-eb4f-2b98-0e513a2cb98d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk8assignment.pdf
 uid: 2d2522cd-5cdb-3806-e974-6bdfe7461b4a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

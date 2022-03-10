@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk10overheadsnewupdated.pdf
 uid: 42eba9ef-7675-656b-1eeb-47454bf179d1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

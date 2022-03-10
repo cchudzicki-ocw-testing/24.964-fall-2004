@@ -10,4 +10,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: wk3handout.pdf
 uid: cc77cf8f-577e-ccd6-1654-5cfafdf0d239
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
