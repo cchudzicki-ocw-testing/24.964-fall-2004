@@ -71,7 +71,7 @@ Exp1-High.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonol
 Exp1-Low.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp1Low.txt))  
 Exp3-High.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp3High.txt))  
 Exp3-Low.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp3Low.txt))  
-AlbrightHayes.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/AlbrightHayes.txt))
+AlbrightHayes.txt ({{% resource_link a0c4b301-329f-8b0e-350e-b489c45b14dd "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Phonotactic Probability (cont.) ({{% resource_link 040be562-ff27-170a-ef24-4fb17
   
 _Related Files  
   
-_AlbrightHayes.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/AlbrightHayes.txt))
+_AlbrightHayes.txt ({{% resource_link a0c4b301-329f-8b0e-350e-b489c45b14dd "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,8 +115,8 @@ Understanding Recursive Constraint Demotion ({{% resource_link 3a23fdc4-d3ea-414
   
 _Related Files  
   
-_RCD.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCD.pl))  
-RCD-Readme.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCDReadme.txt))
+_RCD.pl ({{% resource_link f0511838-6a9a-ed94-594d-6020e5a7d7b9 "PL" %}})  
+RCD-Readme.txt ({{% resource_link 0023566a-bce7-573c-a2f8-0ed388ec6634 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,8 +132,8 @@ The _azba_ Language ({{% resource_link 7be9cb7f-b4be-8f75-b779-f97bdc918e8e "PDF
   
 _Related Files  
   
-_LFCD.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/LFCD.pl))  
-RCD.pl ([PL](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/study-materials/RCD.pl))
+_LFCD.pl ({{% resource_link f2a62ffe-05e9-48cd-dc25-82365951a4a2 "PL" %}})  
+RCD.pl ({{% resource_link f0511838-6a9a-ed94-594d-6020e5a7d7b9 "PL" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
