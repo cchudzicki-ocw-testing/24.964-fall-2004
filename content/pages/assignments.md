@@ -67,10 +67,10 @@ _Related Files
   
 _Baayen, Piepenbrock, and van Rijn. "The CELEX Lexical Data Base on CD-ROM." _Linguistic Data Consortium._ Philadelphia: PA, 1993.  
   
-Exp1-High.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp1High.txt))  
-Exp1-Low.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp1Low.txt))  
-Exp3-High.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp3High.txt))  
-Exp3-Low.txt ([TXT](/courses/linguistics-and-philosophy/24-964-topics-in-phonology-fall-2004/assignments/Exp3Low.txt))  
+Exp1-High.txt ({{% resource_link "d6c34c8d-5458-3f8a-2e5d-9be94bcc98b1" "TXT" %}})  
+Exp1-Low.txt ({{% resource_link "51ca843b-baf7-0f77-b16a-3fc75bb29ed9" "TXT" %}})  
+Exp3-High.txt ({{% resource_link "e3a61599-7bdc-ebb3-bfd2-4c742121515f" "TXT" %}})  
+Exp3-Low.txt ({{% resource_link "fc62b030-d919-9c76-c4bc-4930b66cecf8" "TXT" %}})  
 AlbrightHayes.txt ({{% resource_link a0c4b301-329f-8b0e-350e-b489c45b14dd "TXT" %}})
 {{< tdclose >}}
 
