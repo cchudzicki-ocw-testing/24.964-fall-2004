@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/7be9cb7fb4be8f75b779f97bdc918e8e_wk7assignment.pdf
+file: /courses/24-964-topics-in-phonology-fall-2004/7be9cb7fb4be8f75b779f97bdc918e8e_wk7assignment.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Homework assignment.

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Continuation of the third homework assignment.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/040be562ff27170aef244fb17cf5deca_wk4assignment.pdf
+file: /courses/24-964-topics-in-phonology-fall-2004/040be562ff27170aef244fb17cf5deca_wk4assignment.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Continuation of the third homework assignment.

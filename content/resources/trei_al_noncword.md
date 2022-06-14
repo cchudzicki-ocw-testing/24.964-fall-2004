@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Study Materials.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/829826ae9f43f5b7350d5c87fbcbabe9_trei_al_noncword.xls
+file: /courses/24-964-topics-in-phonology-fall-2004/829826ae9f43f5b7350d5c87fbcbabe9_trei_al_noncword.xls
 file_type: application/msword
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Supporting file for Study Materials.

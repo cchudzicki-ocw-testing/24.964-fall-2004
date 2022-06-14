@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Code file.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/efecd90ad5571a5527a30c82d8756672_cvcv.pl
+file: /courses/24-964-topics-in-phonology-fall-2004/efecd90ad5571a5527a30c82d8756672_cvcv.pl
 file_type: application/octet-stream
 learning_resource_types: []
 ocw_type: OCWFile
@@ -16,3 +16,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Code file.

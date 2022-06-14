@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/4158c3f7797d972c26f232c7343cd630_perlscripts6.zip
+file: /courses/24-964-topics-in-phonology-fall-2004/4158c3f7797d972c26f232c7343cd630_perlscripts6.zip
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Detailed summary of topics covered in lecture.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-964-topics-in-phonology-fall-2004/ebbcacd62c9a3c090ec456af0e64302f_wk2overheads.pdf
+file: /courses/24-964-topics-in-phonology-fall-2004/ebbcacd62c9a3c090ec456af0e64302f_wk2overheads.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Detailed summary of topics covered in lecture.
