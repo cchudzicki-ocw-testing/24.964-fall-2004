@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section provides information about: Course Description, Course
+  Requirements, Written Assignments, Presentations on Readings and Discussion Questions,
+  and Final (Mini-) Project.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

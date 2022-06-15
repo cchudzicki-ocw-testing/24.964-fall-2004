@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists Week numbers along with Topics and the Key Dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
