@@ -4,6 +4,7 @@ description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/08203c29dce2f92be5b06818d4cc5a8a_SaShiPhonemic.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

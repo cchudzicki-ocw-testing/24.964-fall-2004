@@ -5,6 +5,7 @@ file: /courses/24-964-topics-in-phonology-fall-2004/51ca843bbaf70f77b16a3fc75bb2
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/1fa9c61034688dfc59e515b0c6cab75e_SaShiAllophonic3.constraints
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

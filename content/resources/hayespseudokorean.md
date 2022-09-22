@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/1f0f62f6f51cd9d4a3fda17cba6f0d96_HayesPseudoKorean.specificity
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/d9dccc0f71a3624fa1b1d68475d03720_Exp1Low.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

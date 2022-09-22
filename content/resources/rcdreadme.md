@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/0023566abce7573ca2f80ed388ec6634_RCDReadme.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

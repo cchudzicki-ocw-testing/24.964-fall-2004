@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/f2a62ffe05e948cddc2582365951a4a2_LFCD.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

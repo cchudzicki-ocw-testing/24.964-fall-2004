@@ -4,6 +4,7 @@ description: Supporting file.
 file: /courses/24-964-topics-in-phonology-fall-2004/50b886028004357925e86e58a368f3d3_JapaneseRules.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

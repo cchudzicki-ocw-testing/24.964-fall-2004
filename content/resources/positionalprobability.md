@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/ad2e290b124bde40e7bcd22d497746b5_PositionalProbability.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

@@ -4,6 +4,7 @@ description: Supporting file for Study Materials.
 file: /courses/24-964-topics-in-phonology-fall-2004/829826ae9f43f5b7350d5c87fbcbabe9_trei_al_noncword.xls
 file_type: application/msword
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection

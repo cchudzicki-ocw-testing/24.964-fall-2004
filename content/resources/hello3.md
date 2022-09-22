@@ -4,6 +4,7 @@ description: Code file.
 file: /courses/24-964-topics-in-phonology-fall-2004/a1471af788b6d9d4185a8d374dbe4c36_hello3.pl
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
